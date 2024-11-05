@@ -57,6 +57,11 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 Mention the optimal policy, optimal value function , success rate for the optimal policy.
 
+![WhatsApp Image 2024-11-05 at 12 59 27_62d80eb6](https://github.com/user-attachments/assets/82649261-ba34-46e8-a555-728e2e75c782)
+
+![WhatsApp Image 2024-11-05 at 12 59 27_3881f0c1](https://github.com/user-attachments/assets/96a477d2-f9fb-4c9f-ac15-0ac3998d3818)
+
+
 
 ## RESULT:
 
